@@ -1,0 +1,12 @@
+log:
+  exp_name: 2025_12_14_scribble_on_bunny_v3_seed_2_step3_v3
+guide:
+  text: "a photo of a rabbit, {} view"
+  diffusion_name: /data/tangyangguang/tangyangguang/.cache/huggingface/hub/models--stabilityai--stable-diffusion-2-depth/snapshots/d49bafe6f381b0fe37ccfc4c8f6a23424b09d6ef
+  shape_scale: 0.6
+  append_direction: True
+  shape_path: shapes/bunny.obj
+  reference_texture: textures/ref_1219.png
+  initial_texture: textures/initial_1219.png
+optim:
+  seed: 2

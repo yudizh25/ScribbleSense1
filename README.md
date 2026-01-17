@@ -17,3 +17,6 @@ to get input textures for inpainting step. Then, apply inpainting to obtain the 
 ```bash
 python -m scripts.run_texture --config_path=configs/texture_edit/bunny_step3.yaml
 ```
+
+## Acknowledgement
+Our project is built on [TEXTure](https://github.com/TEXTurePaper/TEXTurePaper). We sincerely thank the authors for their awesome work!
